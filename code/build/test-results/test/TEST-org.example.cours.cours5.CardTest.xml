@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.cours.cours5.CardTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-11-24T17:44:27.722Z" hostname="Moussa" time="0.005">
+  <properties/>
+  <testcase name="rankComparatorIsCorrect" classname="org.example.cours.cours5.CardTest" time="0.001"/>
+  <testcase name="rankIsCorrect" classname="org.example.cours.cours5.CardTest" time="0.001"/>
+  <testcase name="suitIsCorrect" classname="org.example.cours.cours5.CardTest" time="0.0"/>
+  <testcase name="uniqueInstances" classname="org.example.cours.cours5.CardTest" time="0.001"/>
+  <testcase name="rankAndThenSuitComparatorIsCorrect" classname="org.example.cours.cours5.CardTest" time="0.0"/>
+  <testcase name="suitComparatorIsCorrect" classname="org.example.cours.cours5.CardTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

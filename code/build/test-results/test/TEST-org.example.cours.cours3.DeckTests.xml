@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.cours.cours3.DeckTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-11-24T17:44:27.713Z" hostname="Moussa" time="0.001">
+  <properties/>
+  <testcase name="sizeIsCorrect" classname="org.example.cours.cours3.DeckTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

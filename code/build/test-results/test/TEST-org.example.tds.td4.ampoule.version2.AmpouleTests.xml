@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.tds.td4.ampoule.version2.AmpouleTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-11-24T17:44:27.768Z" hostname="Moussa" time="0.023">
+  <properties/>
+  <testcase name="neCassePasAvant3" classname="org.example.tds.td4.ampoule.version2.AmpouleTests" time="0.019"/>
+  <testcase name="casseApres3" classname="org.example.tds.td4.ampoule.version2.AmpouleTests" time="0.003"/>
+  <system-out><![CDATA[l'ampoule s'allume
+l'ampoule s'éteint
+l'ampoule s'allume
+l'ampoule s'éteint
+l'ampoule s'allume
+l'ampoule s'éteint
+l'ampoule s'allume
+l'ampoule s'éteint
+l'ampoule s'allume
+l'ampoule s'éteint
+l'ampoule s'allume
+l'ampoule s'éteint
+l'ampoule casse
+ampoule cassée
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
